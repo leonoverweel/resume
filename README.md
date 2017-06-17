@@ -4,9 +4,13 @@ _Delft University of Technology'18_ | [leonoverweel.com](http://leonoverweel.com
 
 ## 👨‍🎓 Education
 
-- **Delft University of Technology**: B.Sc. Computer Science and Engineering.
-  - Participating in Honours Programme Delft, which involves earning 20 extra ECTS through research (at the [@Large Research Group](https://atlarge-research.com/)) and interfacultary classes.
+- **Delft University of Technology** (2015 - Today) _Delft, Netherlands_
+  - B.Sc. Computer Science and Engineering.
+  - Participating in Honours Programme Delft, which involves earning 20 extra ECTS through research (at the [@Large Research Team](https://atlarge-research.com/)) and interfacultary classes.
   - Finished freshman year with a 9.1 GPA (3rd in my class).
+- **Rye High School** (2011 - 2015) _Rye, NY, USA_
+  - 11 Advanced Placement courses.
+  - Completed high school with a 99.56 GPA (top 10% in my class).
 
 ## 👨‍💻 Industry Experience
 
@@ -15,7 +19,6 @@ _Delft University of Technology'18_ | [leonoverweel.com](http://leonoverweel.com
 ## 🌐 Selected Personal Projects
 
 [TO DO]
-
 
 ## 📜 Research
 
@@ -26,5 +29,3 @@ _Delft University of Technology'18_ | [leonoverweel.com](http://leonoverweel.com
 [TO DO]
 
 ## 💻 Technical Skills
-
-[TO DO]
