@@ -4,7 +4,9 @@ _Delft University of Technology'18_ | [leonoverweel.com](http://leonoverweel.com
 
 ## 👨‍🎓 Education
 
-[TO DO]
+- **Delft University of Technology**: B.Sc. Computer Science and Engineering.
+  - Participating in Honours Programme Delft, which involves earning 20 extra ECTS through research (at the [@Large Research Group](https://atlarge-research.com/)) and interfacultary classes.
+  - Finished freshman year with a 9.1 GPA (3rd in my class).
 
 ## 👨‍💻 Industry Experience
 
