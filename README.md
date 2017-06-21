@@ -13,7 +13,7 @@ _Delft University of Technology '18_
 - **Rye High School**, Rye, NY, USA _(2011 - 2015)_
   - 11 Advanced Placement courses.
   - Johns Hopkins Center for Talented Youth online physics course.
-  - Completed high school with a 99.56 GPA (top 10% in my class).
+  - Completed high school with a 99.49 GPA (top 10% in my class).
 
 ## 👨‍💻 Industry Experience
 
