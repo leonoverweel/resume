@@ -34,4 +34,11 @@ _Delft University of Technology'18_ | [leonoverweel.com](http://leonoverweel.com
 - **AP Scholar with Distinction Award** (CollegeBoard, _2014_)
 - **University of Pennsylvania Book Award** (Rye High School, _2014_)
 
+## 💬 Selected Keynotes and Invited Talks
+
+- **CompSys-2017** ([TU Delft ASCI](http://www.asci.tudelft.nl/), _2017_): The OpenDC Vision: Towards Collaborative Datacenter Simulation and Exploration for Everybody
+- **ICT.OPEN2017** ([ICT.OPEN](http://www.ictopen.nl/), _2017_): The OpenDC Vision: Towards Collaborative Datacenter Simulation and Exploration for Everybody
+- **I Am Blockchain** ([Sogeti](https://www.sogeti.nl/), _2017_): PassPort: Container Tracking on Blockchain
+- **Blockchain for Enterprises, Governments and Institutions** ([BECON](http://www.becon.global/), _2016_): PassPort: Container Tracking on Blockchain
+
 ## 💻 Technical Skills
