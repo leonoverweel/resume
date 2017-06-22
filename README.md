@@ -58,3 +58,23 @@ _Delft University of Technology '18_
 - **Blockchain for Enterprises, Governments and Institutions**, [BECON](http://www.becon.global/) _(2016):_ PassPort: Container Tracking on Blockchain
 
 ## 💻 Technical Skills
+
+### Languages
+
+- I've done many projects in **Python**, **Java**, and **SQL**.
+- I'm comfortable working in **JavaScript** (plus **HTML** and **CSS**), **C++**, and **RobotC**.
+- I have some experience in **Assembly**, **Prolog**, and **GOAL**.
+
+### Platforms
+
+- I've done many projects using **Flask**, **Google App Engine**, **OpenAPI**, and **Mindstorms NXT**.
+- I'm comfortable using **Linux**, **nginx**, **Java Spark**, and **RobotOS**.
+- I have some experience using **Docker**.
+
+### APIs
+
+I'm comfortable using the **Spotify API** and the **Reddit API**.
+
+### Tools and IDEs
+
+I've done many projects with **Git**, **GitHub**, **IntelliJ**, **Visual Studio Code**, and **PyCharm**
