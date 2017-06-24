@@ -39,7 +39,9 @@ _Delft University of Technology '18_
 
 ## 📜 Research
 
-[TO DO]
+Below is a list of my publications.
+
+- A. Iosup, G. Andreadis, V. van Beek, M. Bijman, E. van Eyk, M. Neacsu, L. Overweel, S. Talluri, L. Versluis, and M. Visser. [The OpenDC Vision: Towards Collaborative Datacenter Simulation andExploration for Everybody](attachments/articles/iosup2017opendc.pdf), _to appear as invited paper at ISPDC-2017_
 
 ## 🏆 Selected Awards
 
