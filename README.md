@@ -35,7 +35,14 @@ _Delft University of Technology '18_
 
 ## 🌐 Selected Personal Projects
 
-[TO DO]
+In my free time, I love to work on side projects. They range from websites (🌐), open source code (🎁) and general programming projects (⌨️), to film (🎥) and robotics (🤖).
+
+- [**Dutch Hackathon List**](http://leonoverweel.com/dutch-hackathon-list) 🌐🎁 _(2017)_
+  - Collaboratively building the most comprehensive list of annual hackathons in the Netherlands at [hackathonlist.nl](http://hackathonlist.nl/).
+- [**Hack the North '16**](http://leonoverweel.com/hack-the-north-2016) ⌨️ _(2016)_
+  - Inspired by Twitch Plays Pokemon, my team and I created a little robot car that multiple people could drive around the room with their phones.
+- [**World Port Hackathon '16**](http://leonoverweel.com/world-port-hackathon-2016) 🌐 _(2016)_
+  - My team "De Delftse Delegatie" got first place with a prototype for a blockchain-based app to help customs agencies detect smuggling in freight containers.
 
 ## 📜 Research
 
