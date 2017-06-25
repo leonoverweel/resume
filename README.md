@@ -43,6 +43,20 @@ In my free time, I love to work on side projects. They range from websites (🌐
   - Inspired by Twitch Plays Pokemon, my team and I created a little robot car that multiple people could drive around the room with their phones.
 - [**World Port Hackathon '16**](http://leonoverweel.com/world-port-hackathon-2016) 🌐 _(2016)_
   - My team "De Delftse Delegatie" got first place with a prototype for a blockchain-based app to help customs agencies detect smuggling in freight containers.
+- [**Intersect.Ninja**](http://leonoverweel.com/intersect.ninja) 🌐🎁 _(2015)_
+  - Intersect.Ninja is an open source website that uses the Spotify API to find intersections in the artists and tracks different people like, based on their public playlists.
+- [**Assembly Game**](http://leonoverweel.com/assembly-game) ⌨️ _(2015)_
+  - For TI1406 lab, I made an Assembly game much like Arc Spin, along with a few other cool projects.
+- [**Arc Spin**](http://leonoverweel.com/arc-spin) 🌐 _(2015)_
+  - Arc Spin is a desktop and mobile browser game in which you avoid spinning obstacles and try to score as many points as you can.
+- [**Link Syncer**](http://leonoverweel.com/link-syncer) 🌐 _(2015)_
+  - Link Syncer creates quick links that will only redirect everyone to the link you're sharing once everyone has clicked the Synced Link.
+- [**Rye High Jinx**](http://leonoverweel.com/rye-high-jinx) 🎥 _(2015)_
+  - What happens when a student and a teacher switch bodies? The 2015 Rye High School senior movie, of course!
+- [**Reddit Weekly**](http://leonoverweel.com/reddit-weekly) 🌐 _(2015)_
+  - Reddit Weekly makes sure you don't miss out on the top posts from your favorite small subreddits using customizable, weekly emails.
+- [**Stop Freebooting Now**](http://leonoverweel.com/stop-freebooting-now) 🌐🎥 _(2015)_
+  - Stop Freebooting Now helps freebooting victims retaliate by documenting and calling out websites and social media pages that steal online creators' original content.
 
 ## 📜 Research
 
