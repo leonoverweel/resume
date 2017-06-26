@@ -53,6 +53,18 @@ In my free time, I love to work on side projects. They range from websites (🌐
   - Reddit Weekly makes sure you don't miss out on the top posts from your favorite small subreddits using customizable, weekly emails.
 - [Stop Freebooting Now](http://leonoverweel.com/stop-freebooting-now) 🌐🎥 _(2015)_
   - Stop Freebooting Now helps freebooting victims retaliate by documenting and calling out websites and social media pages that steal online creators' original content.
+- [AP World: Greatest Hits](http://leonoverweel.com/ap-world-greatest-hits) 🎥 _(2013)_
+  - "AP World Greatest Hits: An Epic Poem of the Farces and Tragedies of History" was the final project my friends and I made for AP World History.
+  - The video has over 30,000 views on YouTube.
+- [FCCYSF](http://leonoverweel.com/fccysf) 🎥 _(2012)_
+  - FCCSYF (Free Creative Commons YouTuve Stock Footage) is a continuous project to provide high quality stock footage to low budget filmmakers, for free.
+  - The channel has over 700 subscribers on YouTube.
+- [PriNXT](http://leonoverweel.com/prinxt) 🤖 _(2012)_
+  - PriNXT was a LEGO Mindstorms NXT plotter robot that could "print" low-resolution images onto a sheet of paper.
+  - The demo video has over 220,000 views on YouTube.
+- [Skype Car](http://leonoverweel.com/skype-car) 🤖 _(2012)_
+  - The Skype Car was a little robotic car that hundreds of people around the world drove around my room via the web while watching a live video feed of it through Skype.
+  - Skype Car was featured on [Engadget](https://www.engadget.com/2012/01/10/skype-controlled-mindstorms-nxt-car-toys-over-ip/).
 
 You can see many more of my personal projects on my website, [leonoverweel.com](http://leonoverweel.com)!
 
