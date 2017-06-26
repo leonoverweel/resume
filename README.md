@@ -62,7 +62,7 @@ In my free time, I love to work on side projects. They range from websites (🌐
 
 Below is a list of my publications.
 
-- A. Iosup, G. Andreadis, V. van Beek, M. Bijman, E. van Eyk, M. Neacsu, L. Overweel, S. Talluri, L. Versluis, and M. Visser. [The OpenDC Vision: Towards Collaborative Datacenter Simulation andExploration for Everybody](attachments/articles/iosup2017opendc.pdf), _to appear as invited paper at ISPDC-2017_
+- A. Iosup, G. Andreadis, V. van Beek, M. Bijman, E. van Eyk, M. Neacsu, L. Overweel, S. Talluri, L. Versluis, and M. Visser. [The OpenDC Vision: Towards Collaborative Datacenter Simulation andExploration for Everybody](https://github.com/leonoverweel/resume/blob/master/attachments/articles/iosup2017opendc.pdf), _to appear as invited paper at ISPDC-2017_
 
 ## 🏆 Selected Awards
 
