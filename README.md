@@ -17,7 +17,7 @@ _Delft University of Technology '18_
 
 ## 👨‍💻 Industry Experience
 
-- **OpenDC Product Lead**, [@Large Research](https://atlarge-research.com/) _(June 2016 - today):_
+- **OpenDC Product Lead**, [@Large Research](https://atlarge-research.com/) _(June 2016 - June 2017):_
   - Currently working in the @Large Research group as product lead and software engineer for [OpenDC](https://opendc.ewi.tudelft.nl/): a free, open-source datacenter simulator for education.
   - One of three students who built the initial OpenDC prototype over the summer of 2016.
   - Management responsibilities: Sprint planning, conference presentations, and roadmap management.
@@ -28,7 +28,8 @@ _Delft University of Technology '18_
 - **Teaching Assistant**, [Delft University of Technology](https://www.tudelft.nl/) _(Aug. 2016 - June 2017):_
   - TI1406 Computer Organization: tutored and graded Assembly programming lab assignments for first-year BSc students.
   - TI1206M Linear Algebra: translated Dutch-language final exams to English.
-  - UD1031 Robotics: created a lesson plan and exercises for an OpenDC-based tutorial on the relevance of datacenters to robotics. 
+  - UD1031 Robotics: created a lesson plan and exercises for an OpenDC-based tutorial on the relevance of datacenters to robotics.
+  - Independently: created book summaries and study material for various courses, [available for free online](http://leonoverweel.com/ti-summaries).
 - **Software Engineering Intern**, [Mugsy](http://mugsy.tv/) _(May 2015 - July 2015):_
   - Developed the front and back ends of a website featuring an easy-to-use custom Content Management System that allows administrators without coding skills to add, edit and remove multiple types of content pages.
 - **Robotics and Software Engineering Intern**, [Delft University of Technology](https://www.tudelft.nl/) _(June 2014 - July 2014):_
