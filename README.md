@@ -11,7 +11,7 @@ _Delft University of Technology '18_
   - Participating in Honours Programme Delft, which involves earning 20 extra ECTS through research and interfacultary classes.
   - Finished freshman year with a 9.1 GPA (3rd in my class).
 - **Rye High School**, Rye, NY, USA _(2011 - 2015)_
-  - 11 Advanced Placement courses.
+  - 10 Advanced Placement courses.
   - Johns Hopkins Center for Talented Youth online physics course.
   - Completed high school with a 99.49 GPA (top 10% in my class).
 
@@ -25,9 +25,10 @@ _Delft University of Technology '18_
 - **Chief Hacker Experience**, [HackDelft](https://hackdelft.com/) _(Aug. 2016 - June 2017):_
   - Organized HackDelft, the first hackathon organized by the study association 'Christiaan Huygens'.
   - Responsibilities: HackDelft's jury, keynote speaker, [@HackDelft](https://twitter.com/hackdelft) twitter account, working with Major League Hacking, and general "hacker experience."
-- **Teaching Assistant**, [Delft University of Technology](https://www.tudelft.nl/) _(Aug. 2016 - Oct. 2016):_
-  - Assisted first year BSc students in the Q1 Computer Organization course.
-  - Responsibilities: Tutoring and grading Assembly programming lab assignments.
+- **Teaching Assistant**, [Delft University of Technology](https://www.tudelft.nl/) _(Aug. 2016 - June 2017):_
+  - TI1406 Computer Organization: tutored and graded Assembly programming lab assignments for first-year BSc students.
+  - TI1206M Linear Algebra: translated Dutch-language final exams to English.
+  - UD1031 Robotics: created a lesson plan and exercises for an OpenDC-based tutorial on the relevance of datacenters to robotics. 
 - **Software Engineering Intern**, [Mugsy](http://mugsy.tv/) _(May 2015 - July 2015):_
   - Developed the front and back ends of a website featuring an easy-to-use custom Content Management System that allows administrators without coding skills to add, edit and remove multiple types of content pages.
 - **Robotics and Software Engineering Intern**, [Delft University of Technology](https://www.tudelft.nl/) _(June 2014 - July 2014):_
@@ -81,7 +82,9 @@ Below is a list of my publications.
 - **3rd Place: Google API Prize**, [Hack the North](https://hackthenorth.com/) _(2015)_
 - **National AP Scholar Award**, [The College Board](https://www.collegeboard.org/) _(2015)_
 - **AP Scholar with Distinction Award**, [The College Board](https://www.collegeboard.org/) _(2014)_
-- **University of Pennsylvania Book Award** [Rye High School](http://ryecityschools.rhs.schoolfusion.us/) _(2014)_
+- **University of Pennsylvania Book Award**, [Rye High School](http://ryecityschools.rhs.schoolfusion.us/) _(2014)_
+- **Departmental Awards**, [Rye High School](http://ryecityschools.rhs.schoolfusion.us/) _(2012 - 2015)_
+  - Received for AP Calculus BC, Fundamentals of Programming, English, French, and Painting & Drawing
 
 ## 💬 Selected Keynotes and Invited Talks
 
