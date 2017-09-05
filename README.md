@@ -4,19 +4,18 @@ _Delft University of Technology '18_
 
 [leonoverweel.com](http://leonoverweel.com) / [l.overweel@gmail.com](mailto:l.overweel@gmail.com) / [@LayOn_OverWhale](https://twitter.com/layon_OverWhale)
 
-##  Education
+## 👨‍🎓 Education
 
 - **Delft University of Technology**, Delft, Netherlands _(2015 - Today)_
   - B.Sc. Computer Science and Engineering.
   - Participating in Honours Programme Delft, which involves earning 20 extra ECTS through research and interfacultary classes.
   - Finished freshman year with a 9.1 GPA (3rd in my class).
-  - Selected to study abroad at the National University of Singapore semester 1 of junior year.
 - **Rye High School**, Rye, NY, USA _(2011 - 2015)_
   - 10 Advanced Placement courses.
   - Johns Hopkins Center for Talented Youth online physics course.
   - Completed high school with a 99.49 GPA (top 10% in my class).
 
-##  Industry Experience
+## 👨‍💻 Industry Experience
 
 - **OpenDC Product Lead**, [@Large Research](https://atlarge-research.com/) _(June 2016 - June 2017):_
   - Currently working in the @Large Research group as product lead and software engineer for [OpenDC](https://opendc.ewi.tudelft.nl/): a free, open-source datacenter simulator for education.
@@ -36,11 +35,11 @@ _Delft University of Technology '18_
 - **Robotics and Software Engineering Intern**, [Delft University of Technology](https://www.tudelft.nl/) _(June 2014 - July 2014):_
   - Developed a Robot-OS-based GUI for TU Delft's 3mxl motor board that allows students and professors to intuitively edit robots’ motor parameters and share defaults across devices using XML files.
 
-##  Selected Personal Projects
+## 🌐 Selected Personal Projects
 
-In my free time, I love to work on side projects. They range from websites (), open source code () and general programming projects (), to film () and robotics ().
+In my free time, I love to work on side projects. They range from websites (🌐), open source code (🎁) and general programming projects (⌨️), to film (🎥) and robotics (🤖).
 
-- [Dutch Hackathon List](http://leonoverweel.com/dutch-hackathon-list)  _(2017)_
+- [Dutch Hackathon List](http://leonoverweel.com/dutch-hackathon-list) 🌐🎁 _(2017)_
   - Collaboratively building the most comprehensive list of annual hackathons in the Netherlands at [hackathonlist.nl](http://hackathonlist.nl/).
 - [World Port Hackathon '16](http://leonoverweel.com/world-port-hackathon-2016) 🌐 _(2016)_
   - My team "De Delftse Delegatie" got first place with a prototype for a blockchain-based app to help customs agencies detect smuggling in freight containers.
