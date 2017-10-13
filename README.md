@@ -19,7 +19,7 @@ _Delft University of Technology '18_
 ## 👨‍💻 Industry Experience
 
 - **OpenDC Product Lead**, [@Large Research](https://atlarge-research.com/) _(June 2016 - June 2017):_
-  - Currently working in the @Large Research group as product lead and software engineer for [OpenDC](https://opendc.ewi.tudelft.nl/): a free, open-source datacenter simulator for education.
+  - Worked in the @Large Research group as product lead and software engineer for [OpenDC](https://opendc.ewi.tudelft.nl/): a free, open-source datacenter simulator for education.
   - One of three students who built the initial OpenDC prototype over the summer of 2016.
   - Management responsibilities: Sprint planning, conference presentations, and roadmap management.
   - Engineering responsibilities: Database, API design, and web server components.
@@ -106,8 +106,7 @@ Below is a list of my publications.
 ### Platforms
 
 - I've done many projects using **Flask**, **Google App Engine**, **OpenAPI**, and **Mindstorms NXT**.
-- I'm comfortable using **Linux**, **nginx**, **Java Spark**, and **RobotOS**.
-- I have some experience using **Docker**.
+- I'm comfortable using **Linux**, **nginx**, **Docker** and **Docker Compose**, **Java Spark**, and **RobotOS**.
 
 ### APIs
 
