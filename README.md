@@ -38,36 +38,20 @@ _Delft University of Technology '18_
 
 ## 🌐 Selected Personal Projects
 
-In my free time, I love to work on side projects. They range from websites (🌐), open source code (🎁) and general programming projects (⌨️), to film (🎥) and robotics (🤖).
+In my free time, I love to work on side projects. They range from websites (🌐) and open source code (🎁), to film (🎥) and robotics (🤖).
 
-- [Dutch Hackathon List](http://leonoverweel.com/dutch-hackathon-list) 🌐🎁 _(2017)_
-  - Collaboratively building the most comprehensive list of annual hackathons in the Netherlands at [hackathonlist.nl](http://hackathonlist.nl/).
-- [World Port Hackathon '16](http://leonoverweel.com/world-port-hackathon-2016) 🌐 _(2016)_
-  - My team "De Delftse Delegatie" got first place with a prototype for a blockchain-based app to help customs agencies detect smuggling in freight containers.
-- [Intersect.Ninja](http://leonoverweel.com/intersect.ninja) 🌐🎁 _(2015)_
-  - Intersect.Ninja is an open source website that uses the Spotify API to find intersections in the artists and tracks different people like, based on their public playlists.
-- [Arc Spin](http://leonoverweel.com/arc-spin) 🌐 _(2015)_
-  - Arc Spin is a desktop and mobile browser game in which you avoid spinning obstacles and try to score as many points as you can.
-- [Link Syncer](http://leonoverweel.com/link-syncer) 🌐 _(2015)_
-  - Link Syncer creates quick links that will only redirect everyone to the link you're sharing once everyone has clicked the Synced Link.
-- [Rye High Jinx](http://leonoverweel.com/rye-high-jinx) 🎥 _(2015)_
-  - What happens when a student and a teacher switch bodies? The 2015 Rye High School senior movie, of course!
-- [Reddit Weekly](http://leonoverweel.com/reddit-weekly) 🌐 _(2015)_
-  - Reddit Weekly makes sure you don't miss out on the top posts from your favorite small subreddits using customizable, weekly emails.
-- [Stop Freebooting Now](http://leonoverweel.com/stop-freebooting-now) 🌐🎥 _(2015)_
-  - Stop Freebooting Now helps freebooting victims retaliate by documenting and calling out websites and social media pages that steal online creators' original content.
-- [AP World: Greatest Hits](http://leonoverweel.com/ap-world-greatest-hits) 🎥 _(2013)_
-  - "AP World Greatest Hits: An Epic Poem of the Farces and Tragedies of History" was the final project my friends and I made for AP World History.
-  - The video has over 30,000 views on YouTube.
-- [FCCYSF](http://leonoverweel.com/fccysf) 🎥 _(2012)_
-  - FCCSYF (Free Creative Commons YouTuve Stock Footage) is a continuous project to provide high quality stock footage to low budget filmmakers, for free.
-  - The channel has over 700 subscribers on YouTube.
-- [PriNXT](http://leonoverweel.com/prinxt) 🤖 _(2012)_
-  - PriNXT was a LEGO Mindstorms NXT plotter robot that could "print" low-resolution images onto a sheet of paper.
-  - The demo video has over 220,000 views on YouTube.
-- [Skype Car](http://leonoverweel.com/skype-car) 🤖 _(2012)_
-  - The Skype Car was a little robotic car that hundreds of people around the world drove around my room via the web while watching a live video feed of it through Skype.
-  - Skype Car was featured on [Engadget](https://www.engadget.com/2012/01/10/skype-controlled-mindstorms-nxt-car-toys-over-ip/).
+- [Dutch Hackathon List](http://leonoverweel.com/dutch-hackathon-list) 🌐🎁 _(2017):_ Collaboratively building the most comprehensive list of upcoming hackathons in the Netherlands at [hackathonlist.nl](http://hackathonlist.nl/).
+- [World Port Hackathon '16](http://leonoverweel.com/world-port-hackathon-2016) 🌐 _(2016):_ Blockchain-based app to help customs agencies detect smuggling in freight containers. We won the first-place prize.
+- [Intersect.Ninja](http://leonoverweel.com/intersect.ninja) 🌐🎁 _(2015):_ Find intersections in the artists and songs different people like, based on their public Spotify playlists.
+- [Arc Spin](http://leonoverweel.com/arc-spin) 🌐 _(2015):_ Mobile and desktop browser game in which you avoid spinning obstacles and try to score as many points as you can.
+- [Link Syncer](http://leonoverweel.com/link-syncer) 🌐 _(2015):_ Quick shortlinks that will only redirect once everyone has clicked. Great to sync watching videos while chatting!
+- [Rye High Jinx](http://leonoverweel.com/rye-high-jinx) 🎥 _(2015):_ What happens when a student and a teacher switch bodies? The 2015 Rye High School senior movie, of course!
+- [Reddit Weekly](http://leonoverweel.com/reddit-weekly) 🌐 _(2015):_ Make sure you don't miss out on the top posts from your favorite small subreddits using customizable, weekly emails.
+- [Stop Freebooting Now](http://leonoverweel.com/stop-freebooting-now) 🌐🎥 _(2015):_ Documenting websites and social media pages that steal online creators' original content.
+- [AP World: Greatest Hits](http://leonoverweel.com/ap-world-greatest-hits) 🎥 _(2013):_ Final project my friends and I made for AP World History. The video has over 30,000 views on YouTube.
+- [FCCYSF](http://leonoverweel.com/fccysf) 🎥 _(2012):_ High quality stock footage to low budget filmmakers, completely free. The channel has over 700 subscribers on YouTube.
+- [PriNXT](http://leonoverweel.com/prinxt) 🤖 _(2012):_ A LEGO Mindstorms NXT plotter robot that could "print" images on paper. The demo video has over 220,000 views on YouTube.
+- [Skype Car](http://leonoverweel.com/skype-car) 🤖 _(2012):_ A little robotic car that hundreds of people around the world drove around my room via Skype. Skype Car was featured on [Engadget](https://www.engadget.com/2012/01/10/skype-controlled-mindstorms-nxt-car-toys-over-ip/).
 
 You can see many more of my personal projects on my website, [leonoverweel.com](http://leonoverweel.com)!
 
