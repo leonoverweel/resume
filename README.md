@@ -4,6 +4,8 @@ _Delft University of Technology '18_
 
 [leonoverweel.com](http://leonoverweel.com) / [l.overweel@gmail.com](mailto:l.overweel@gmail.com) / [@LayOn_OverWhale](https://twitter.com/layon_OverWhale)
 
+**For a single-page PDF version of my resume, [click here](https://github.com/leonoverweel/resume/blob/master/single-page/leon-overweel-resume.pdf).** If you're looking for my complete resume, you're in the right place!
+
 ## 👨‍🎓 Education
 
 - **Delft University of Technology**, Delft, Netherlands _(2015 - Today)_
