@@ -18,6 +18,8 @@ _Delft University of Technology '18_
 
 ## 👨‍💻 Industry Experience
 
+- **Founder**, [Askey](https://askey.chat/) _(July 2017 - Today)_
+  - Currently building [Askey](https://askey.chat), a Messenger-based market research platform launching early 2018.
 - **OpenDC Product Lead**, [@Large Research](https://atlarge-research.com/) _(June 2016 - June 2017):_
   - Worked in the @Large Research group as product lead and software engineer for [OpenDC](https://opendc.ewi.tudelft.nl/): a free, open-source datacenter simulator for education.
   - One of three students who built the initial OpenDC prototype over the summer of 2016.
