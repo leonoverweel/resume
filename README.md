@@ -45,7 +45,7 @@ _Delft University of Technology '18_
 In my free time, I love to work on side projects. They range from websites (🌐) and open source code (🎁), to film (🎥) and robotics (🤖).
 
 - [Dutch Hackathon List](http://leonoverweel.com/dutch-hackathon-list) 🌐🎁 _(2017):_ Collaboratively building the most comprehensive list of upcoming hackathons in the Netherlands at [hackathonlist.nl](http://hackathonlist.nl/).
-- [World Port Hackathon '16](http://leonoverweel.com/world-port-hackathon-2016) 🌐 _(2016):_ Blockchain-based app to help customs agencies detect smuggling in freight containers. We won the first-place prize.
+- [World Port Hackathon '16](http://leonoverweel.com/world-port-hackathon-2016) 🌐 _(2016):_ Blockchain-based app to help customs agencies detect smuggling in freight containers. We won the first-place prize, and worked with the Dutch customs agency and TU Delft Cyber Security group to build an extended hyperledger-based prototype.
 - [Intersect.Ninja](http://leonoverweel.com/intersect.ninja) 🌐🎁 _(2015):_ Find intersections in the artists and songs different people like, based on their public Spotify playlists.
 - [Arc Spin](http://leonoverweel.com/arc-spin) 🌐 _(2015):_ Mobile and desktop browser game in which you avoid spinning obstacles to score points.
 - [Link Syncer](http://leonoverweel.com/link-syncer) 🌐 _(2015):_ Quick shortlinks that will only redirect once everyone has clicked. Great to sync watching videos while chatting!
