@@ -23,7 +23,7 @@ _Delft University of Technology '18_
 - **Founder**, [Askey](https://askey.chat/) _(July 2017 - Today)_
   - Currently building [Askey](https://askey.chat), a Messenger-based market research platform launching early 2018.
 - **OpenDC Product Lead**, [@Large Research](https://atlarge-research.com/) _(June 2016 - June 2017):_
-  - Worked in the @Large Research group as product lead and software engineer for [OpenDC](https://opendc.ewi.tudelft.nl/): a free, open-source datacenter simulator for education.
+  - Worked in the @Large Research group as product lead and software engineer for [OpenDC](http://opendc.org/): a free, open-source datacenter simulator for education.
   - One of three students who built the initial OpenDC prototype over the summer of 2016.
   - Management responsibilities: Sprint planning, conference presentations, and roadmap management.
   - Engineering responsibilities: Database, API design, and web server components.
@@ -63,7 +63,7 @@ You can see many more of my personal projects on my website, [leonoverweel.com](
 
 Below is a list of my publications.
 
-- A. Iosup, G. Andreadis, V. van Beek, M. Bijman, E. van Eyk, M. Neacsu, L. Overweel, S. Talluri, L. Versluis, and M. Visser. [The OpenDC Vision: Towards Collaborative Datacenter Simulation andExploration for Everybody](https://github.com/leonoverweel/resume/blob/master/attachments/articles/iosup2017opendc.pdf), _to appear as invited paper at ISPDC-2017_
+- A. Iosup, G. Andreadis, V. van Beek, M. Bijman, E. van Eyk, M. Neacsu, L. Overweel, S. Talluri, L. Versluis, and M. Visser. [The OpenDC Vision: Towards Collaborative Datacenter Simulation and Exploration for Everybody](https://github.com/leonoverweel/resume/blob/master/attachments/articles/iosup2017opendc.pdf), _to appear as invited paper at ISPDC-2017_
 
 ## 🏆 Selected Awards
 
