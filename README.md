@@ -88,12 +88,12 @@ Below is a list of my publications.
 ### Languages
 
 - I've done many projects in **Python**, **Java**, and **SQL**.
-- I'm comfortable working in **JavaScript** (plus **HTML** and **CSS**), **C++**, and **RobotC**.
+- I'm comfortable working in **JavaScript** (plus **HTML** and **CSS**), **C++**, **Matlab**, and **RobotC**.
 - I have some experience in **Assembly**, **Prolog**, and **GOAL**.
 
 ### Platforms
 
-- I've done many projects using **Flask**, **Google App Engine**, **OpenAPI**, and **Mindstorms NXT**.
+- I've done many projects using **Flask**, **Google App Engine**, **OpenAPI**, **Bootstrap**, and **Mindstorms NXT**.
 - I'm comfortable using **Linux**, **nginx**, **Docker** and **Docker Compose**, **Java Spark**, and **RobotOS**.
 
 ### APIs
