@@ -20,7 +20,7 @@ _Delft University of Technology '18_
 
 ## 👨‍💻 Industry Experience
 
-- **Founder**, [Nubic](https://nubic.tech/) _(July 2017 - Today)_
+- **Founder**, [Nubic](http://nubic.tech/) _(July 2017 - Today)_
   - Currently building Nubic's first product: [Askey.chat](https://askey.chat), a Facebook Messenger-based market research platform launching May 2018 in New York City.
 - **OpenDC Product Lead**, [@Large Research](https://atlarge-research.com/) _(June 2016 - June 2017):_
   - Worked in the @Large Research group as product lead and software engineer for [OpenDC](http://opendc.org/): a free, open-source datacenter simulator for education.
