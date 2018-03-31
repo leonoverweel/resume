@@ -61,9 +61,13 @@ You can see many more of my personal projects on my website, [leonoverweel.com](
 
 ## 📜 Research
 
-Below is a list of my publications.
+Below is a list of my published articles.
 
-- A. Iosup, G. Andreadis, V. van Beek, M. Bijman, E. van Eyk, M. Neacsu, L. Overweel, S. Talluri, L. Versluis, and M. Visser. [The OpenDC Vision: Towards Collaborative Datacenter Simulation and Exploration for Everybody](https://github.com/leonoverweel/resume/blob/master/attachments/articles/iosup2017opendc.pdf), _to appear as invited paper at ISPDC-2017_
+- Iosup, Alexandru, et al. "The OpenDC Vision: Towards Collaborative Datacenter Simulation and Exploration for Everybody." _Parallel and Distributed Computing (ISPDC), 2017 16th International Symposium on_. IEEE, 2017. ([PDF](https://github.com/leonoverweel/resume/blob/master/attachments/articles/iosup2017opendc.pdf), [IEEE](http://ieeexplore.ieee.org/abstract/document/8121623/))
+
+ Below is a list of my open access reports.
+
+ - Vos, Daniël, et al. "DEFenD: A Secure and Privacy-Preserving Decentralized System for Freight Declaration." _arXiv preprint arXiv:1803.09257_ (2018). ([PDF](https://github.com/leonoverweel/resume/blob/master/attachments/articles/vos2018defend.pdf), [arXiv](https://arxiv.org/abs/1803.09257))
 
 ## 🏆 Selected Awards
 
