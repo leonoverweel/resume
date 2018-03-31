@@ -9,10 +9,21 @@ _Delft University of Technology '18_
 ## 👨‍🎓 Education
 
 - **Delft University of Technology**, Delft, Netherlands _(2015 - Today)_
-  - B.Sc. Computer Science and Engineering.
-  - Participating in Honours Programme Delft, which involves earning 20 extra ECTS through research and interfacultary classes.
+  - BSc Computer Science and Engineering.
+  - Honours Programme Delft, which involves earning 20 extra ECTS through research and interfacultary classes.
   - Finished freshman year with a 9.1 GPA (3rd in my class).
-  - Selected to study abroad at the National University of Singapore.
+  - Coursework (TA = Teaching Assistant; CM = created free Course Materials):
+    - _Intelligent Systems_: Logic-Based Artificial Intelligence, Multi-Agent Systems Project, Signal + Image Processing, Multimedia Analysis (CM).
+    - _Computer Systems_: Computer Organization (TA, CM), Computer Networks (TA).
+    - _Information Systems_: Web & Database Technology (CM), Information & Date Modeling.
+    - _Software Development_: Object Oriented Programming + Project, Algorithms & Data Structures (CM), Software Quality & Testing, Software Engineering Methods, Concept of Programming Languages, Contextproject.
+    - _Fundamentals_: Reasoning and Logic (CM), Algorithm Design, Automata, Languages & Computability, Complexity Theory.
+    - _Math & Modeling_: Computer Graphics, Calculus (CM), Linear Algebra (TA, CM), Probability Theory & Statistics.
+- **National University of Singapore**, Singapore _(2017)_
+  - Selected to study abroad at the National University of Singapore to do my minor in Machine Learning and Artificial Intelligence.
+  - Coursework:
+    - _Computer Science_: Machine Learning, Natural Language Processing, Computer Security, Optimization Algoritms.
+    - _Philosophy_: Language and Thought.
 - **Rye High School**, Rye, NY, USA _(2011 - 2015)_
   - 10 Advanced Placement courses.
   - Johns Hopkins Center for Talented Youth online physics course.
