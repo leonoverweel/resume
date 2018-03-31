@@ -8,7 +8,7 @@ _Delft University of Technology '18_
 
 ## 👨‍🎓 Education
 
-- **University of Edinburgh**, Edinburgh, Scotland, _(Starting Fall 2018)_
+- **University of Edinburgh**, Edinburgh, Scotland _(Starting Fall 2018)_
   - Starting my MSc in Artificial Intelligence this fall.
 - **Delft University of Technology**, Delft, Netherlands _(2015 - Today)_
   - BSc Computer Science and Engineering.
