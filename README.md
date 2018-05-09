@@ -84,7 +84,7 @@ Below is a list of my published articles.
 
 ## 🏆 Selected Awards
 
-- **T500: The 500 Most Talented Under-25s in Digital**, [The Next Web](https://thenextweb.com/#.tnw_lMv9jwdn) / [Young Creators](https://youngcreators.co/) _(2017)_
+- **T500: The 500 Most Talented Under-25s in Digital**, [The Next Web](https://thenextweb.com/#.tnw_lMv9jwdn) / [Young Creators](https://youngcreators.co/) _(2017, 2018)_
 - **1st Place: The Overall Best WPH Idea**, [World Port Hackathon](https://worldporthackathon.com/) _(2015)_
 - **3rd Place: Google API Prize**, [Hack the North](https://hackthenorth.com/) _(2015)_
 - **National AP Scholar Award**, [The College Board](https://www.collegeboard.org/) _(2015)_
