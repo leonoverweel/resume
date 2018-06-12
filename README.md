@@ -76,11 +76,8 @@ You can see many more of my personal projects on my website, [leonoverweel.com](
 
 Below is a list of my published articles.
 
+- Vos, Daniel, et al. "DEFenD: A Secure and Privacy-Preserving Decentralized System for Freight Declaration." _Proceedings of 1st ERCIM Blockchain Workshop 2018._ European Society for Socially Embedded Technologies (EUSSET), 2018. ([PDF](https://github.com/leonoverweel/resume/blob/master/attachments/articles/vos2018defend.pdf), [EUSSET](https://hdl.handle.net/20.500.12015/3164), [arXiv](https://arxiv.org/abs/1803.09257))
 - Iosup, Alexandru, et al. "The OpenDC Vision: Towards Collaborative Datacenter Simulation and Exploration for Everybody." _Parallel and Distributed Computing (ISPDC), 2017 16th International Symposium on_. IEEE, 2017. ([PDF](https://github.com/leonoverweel/resume/blob/master/attachments/articles/iosup2017opendc.pdf), [IEEE](http://ieeexplore.ieee.org/abstract/document/8121623/))
-
- Below is a list of my open access reports.
-
- - Vos, Daniël, et al. "DEFenD: A Secure and Privacy-Preserving Decentralized System for Freight Declaration." _arXiv preprint arXiv:1803.09257_ (2018). ([PDF](https://github.com/leonoverweel/resume/blob/master/attachments/articles/vos2018defend.pdf), [arXiv](https://arxiv.org/abs/1803.09257))
 
 ## 🏆 Selected Awards
 
