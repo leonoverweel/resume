@@ -13,7 +13,7 @@ _Delft University of Technology '18_
 - **Delft University of Technology**, Delft, Netherlands _(2015 - 2018)_
   - BSc Computer Science and Engineering.
   - Honours Programme Delft, which involves earning 20 extra ECTS through research and interfacultary classes.
-  - Finished freshman year with a 9.1 GPA (3rd in my class).
+  - Finished with an 8.62/10 GPA and a 9/10 grade for my [BSc thesis](https://repository.tudelft.nl/islandora/object/uuid%3Ae9bdfac5-0c2f-4c85-b9ec-403c88cac696?collection=education).
   - Coursework (TA = Teaching Assistant; CM = created free Course Materials):
     - _Intelligent Systems_: Logic-Based Artificial Intelligence, Multi-Agent Systems Project, Signal + Image Processing, Multimedia Analysis (CM).
     - _Computer Systems_: Computer Organization (TA, CM), Computer Networks (TA).
@@ -79,7 +79,11 @@ You can see many more of my personal projects on my website, [leonoverweel.com](
 Below is a list of my published articles.
 
 - Vos, Daniel, et al. "DEFenD: A Secure and Privacy-Preserving Decentralized System for Freight Declaration." _Proceedings of 1st ERCIM Blockchain Workshop 2018._ European Society for Socially Embedded Technologies (EUSSET), 2018. ([PDF](https://github.com/leonoverweel/resume/blob/master/attachments/articles/vos2018defend.pdf), [EUSSET](https://hdl.handle.net/20.500.12015/3164), [arXiv](https://arxiv.org/abs/1803.09257))
-- Iosup, Alexandru, et al. "The OpenDC Vision: Towards Collaborative Datacenter Simulation and Exploration for Everybody." _Parallel and Distributed Computing (ISPDC), 2017 16th International Symposium on_. IEEE, 2017. ([PDF](https://github.com/leonoverweel/resume/blob/master/attachments/articles/iosup2017opendc.pdf), [IEEE](http://ieeexplore.ieee.org/abstract/document/8121623/))
+- Iosup, Alexandru, et al. "The OpenDC Vision: Towards Collaborative Datacenter Simulation and Exploration for Everybody." _Parallel and Distributed Computing (ISPDC), 2017 16th International Symposium on_. IEEE, 2017. ([PDF](https://github.com/leonoverweel/resume/blob/master/attachments/articles/iosup2017opendc.pdf), [IEEE](http://ieeexplore.ieee.org/abstract/document/8121623/)).
+
+Below is a list of my open access reports (not peer-reviewed):
+
+- Kluiters, T M, et al. "MAPP: ING Customer Journey Mapping." _TU Delft Repositories_, 4 July 2018. (BSc Thesis; [PDF](https://github.com/leonoverweel/resume/blob/master/attachments/articles/kluiters2018mapp.pdf), [TUD](https://repository.tudelft.nl/islandora/object/uuid%3Ae9bdfac5-0c2f-4c85-b9ec-403c88cac696?collection=education)).
 
 ## 🏆 Selected Awards
 
