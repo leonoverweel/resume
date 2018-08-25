@@ -113,7 +113,7 @@ Below is a list of my open access reports (not peer-reviewed):
 
 ### Platforms
 
-- I've done many projects using **Flask**, **Google App Engine**, **OpenAPI**, **Bootstrap**, and **Mindstorms NXT**.
+- I've done many projects using **Flask**, **Polymer**, **Google App Engine**, **OpenAPI**, **Bootstrap**, and **Mindstorms NXT**.
 - I'm comfortable using **Linux**, **nginx**, **Docker** and **Docker Compose**, **Java Spark**, and **RobotOS**.
 
 ### APIs
