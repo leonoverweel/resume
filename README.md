@@ -33,7 +33,7 @@ _Delft University of Technology '18_
 
 ## 👨‍💻 Industry Experience
 
-- **Founder**, [Nubic](http://nubic.tech/) _(July 2017 - Today)_
+- **Founder**, [Nubic](http://nubic.tech/) _(July 2018 - Today)_
   - Nubic is the new home for all my side projects. Watch this space for more!
 - **OpenDC Product Lead**, [@Large Research](https://atlarge-research.com/) _(June 2016 - June 2017):_
   - Worked in the @Large Research group as product lead and software engineer for [OpenDC](http://opendc.org/): a free, open-source datacenter simulator for education.
