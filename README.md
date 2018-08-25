@@ -8,9 +8,9 @@ _Delft University of Technology '18_
 
 ## 👨‍🎓 Education
 
-- **University of Edinburgh**, Edinburgh, Scotland _(Starting Fall 2018)_
+- **University of Edinburgh**, Edinburgh, Scotland _(2018 - Today)_
   - Starting my MSc in Artificial Intelligence this fall.
-- **Delft University of Technology**, Delft, Netherlands _(2015 - Today)_
+- **Delft University of Technology**, Delft, Netherlands _(2015 - 2018)_
   - BSc Computer Science and Engineering.
   - Honours Programme Delft, which involves earning 20 extra ECTS through research and interfacultary classes.
   - Finished freshman year with a 9.1 GPA (3rd in my class).
@@ -34,23 +34,25 @@ _Delft University of Technology '18_
 ## 👨‍💻 Industry Experience
 
 - **Founder**, [Nubic](http://nubic.tech/) _(July 2017 - Today)_
-  - Currently building Nubic's first product: [Askey.chat](https://askey.chat), a Facebook Messenger-based market research platform launching May 2018 in New York City.
+  - Nubic is the new home for all my side projects. Watch this space for more!
 - **OpenDC Product Lead**, [@Large Research](https://atlarge-research.com/) _(June 2016 - June 2017):_
   - Worked in the @Large Research group as product lead and software engineer for [OpenDC](http://opendc.org/): a free, open-source datacenter simulator for education.
   - One of three students who built the initial OpenDC prototype over the summer of 2016.
   - Management responsibilities: Sprint planning, conference presentations, and roadmap management.
   - Engineering responsibilities: Database, API design, and web server components.
-- **Chief Hacker Experience**, [HackDelft](https://hackdelft.com/) _(Aug. 2016 - June 2017):_
+  - My post-product lead role centered around the Cloud Availability Study, to automatically collect uptime and crash data about major cloud services providers for use in the OpenDC simulator.
+- **Co-Founder, Chief Hacker Experience**, [HackDelft](https://hackdelft.com/) _(Aug. 2016 - June 2017):_
   - Organized HackDelft, the first hackathon organized by the study association 'Christiaan Huygens'.
   - Responsibilities: HackDelft's jury, keynote speaker, [@HackDelft](https://twitter.com/hackdelft) twitter account, working with Major League Hacking, and general "hacker experience."
-- **Teaching Assistant**, [Delft University of Technology](https://www.tudelft.nl/) _(Aug. 2016 - June 2017):_
-  - TI1406 Computer Organization: tutored and graded Assembly programming lab assignments for first-year BSc students.
-  - TI1206M Linear Algebra: translated Dutch-language final exams to English.
-  - UD1031 Robotics: created a lesson plan and exercises for an OpenDC-based tutorial on the relevance of datacenters to robotics.
+- **Teaching Assistant**, [TU Delft](https://www.tudelft.nl/) / [VU Amsterdam](https://www.vu.nl/en) _(Aug. 2016 - April 2018):_
+  - TI1406 Computer Organization (TUD): tutored and graded Assembly programming lab assignments for first-year BSc students.
+  - TI1206M Linear Algebra (TUD): translated Dutch-language final exams to English.
+  - UD1031 Robotics (TUD): created a lesson plan and exercises for an OpenDC-based tutorial on the relevance of datacenters to robotics.
+  - X_400487 Computer Networkds (VU): created and graded exercises.
   - Independently: created book summaries and study material for various courses, [available for free online](http://leonoverweel.com/ti-summaries).
 - **Software Engineering Intern**, [Mugsy](http://mugsy.tv/) _(May 2015 - July 2015):_
   - Developed the front and back ends of a website featuring an easy-to-use custom Content Management System that allows administrators without coding skills to add, edit and remove multiple types of content pages.
-- **Robotics and Software Engineering Intern**, [Delft University of Technology](https://www.tudelft.nl/) _(June 2014 - July 2014):_
+- **Robotics and Software Engineering Intern**, [TU Delft](https://www.tudelft.nl/) _(June 2014 - July 2014):_
   - Developed a Robot-OS-based GUI for TU Delft's 3mxl motor board that allows students and professors to intuitively edit robots’ motor parameters and share defaults across devices using XML files.
 
 ## 🌐 Selected Personal Projects
