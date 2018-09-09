@@ -12,12 +12,12 @@ _Delft University of Technology '18_
   - Starting my MSc in Artificial Intelligence this fall.
 - **Delft University of Technology**, Delft, Netherlands _(2015 - 2018)_
   - BSc Computer Science and Engineering.
-  - Honours Programme Delft, which involves earning 20 extra ECTS through research and interfacultary classes.
-  - Finished with an 8.62/10 GPA and a 9/10 grade for my [BSc thesis](https://repository.tudelft.nl/islandora/object/uuid%3Ae9bdfac5-0c2f-4c85-b9ec-403c88cac696?collection=education).
+  - Graduated cum laude with an 8.62/10 GPA and a 9/10 grade for my [BSc thesis](https://repository.tudelft.nl/islandora/object/uuid%3Ae9bdfac5-0c2f-4c85-b9ec-403c88cac696?collection=education).
+  - Completed the Honours Programme Delft, earning 23 extra ECTS through research and interfacultary classes.
   - Coursework (TA = Teaching Assistant; CM = created free Course Materials):
     - _Intelligent Systems_: Logic-Based Artificial Intelligence, Multi-Agent Systems Project, Signal + Image Processing, Multimedia Analysis (CM).
     - _Computer Systems_: Computer Organization (TA, CM), Computer Networks (TA).
-    - _Information Systems_: Web & Database Technology (CM), Information & Date Modeling.
+    - _Information Systems_: Web & Database Technology (CM), Information & Data Modeling.
     - _Software Development_: Object Oriented Programming + Project, Algorithms & Data Structures (CM), Software Quality & Testing, Software Engineering Methods, Concept of Programming Languages, Contextproject.
     - _Fundamentals_: Reasoning and Logic (CM), Algorithm Design, Automata, Languages & Computability, Complexity Theory.
     - _Math & Modeling_: Computer Graphics, Calculus (CM), Linear Algebra (TA, CM), Probability Theory & Statistics.
@@ -35,7 +35,12 @@ _Delft University of Technology '18_
 
 - **Founder**, [Nubic](http://nubic.tech/) _(July 2018 - Today)_
   - Nubic is the new home for all my side projects. Watch this space for more!
-- **OpenDC Product Lead**, [@Large Research](https://atlarge-research.com/) _(June 2016 - June 2017):_
+- **Software Engineering Intern**, [ING Bank](https://www.ing.nl/), _(April 2018 - July 2018)_
+  - Worked in a four-student team to create Mapp, an internal tool for customer journey mapping at ING, as our BSc graduation project.
+  - Focused on finding product-market fit by shipping the Java + Polymer web app in two-week sprints and getting user feedback constantly.
+  - Users love Mapp and we are working to deploy the app throughout ING.
+  - For more info, read about our development process in our BSc thesis report ([PDF](https://github.com/leonoverweel/resume/blob/master/attachments/articles/kluiters2018mapp.pdf)) or watch a short walk-through of the software ([YouTube](https://www.youtube.com/watch?v=autlMmS2snY)).
+- **OpenDC Product Lead; Student Researcher**, [@Large Research](https://atlarge-research.com/) _(June 2016 - July 2018):_
   - Worked in the @Large Research group as product lead and software engineer for [OpenDC](http://opendc.org/): a free, open-source datacenter simulator for education.
   - One of three students who built the initial OpenDC prototype over the summer of 2016.
   - Management responsibilities: Sprint planning, conference presentations, and roadmap management.
