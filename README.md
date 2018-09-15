@@ -10,9 +10,9 @@ _The University of Edinburgh_
 
 - **University of Edinburgh**, Edinburgh, Scotland _(2018 - Today)_
   - Coursework (to be completed):
-    - _Semester 1:_ Machine Learning and Pattern Recognition; Algorithmic Foundations of Data Science; Social and Technological Networks.
-    - _Semester 2:_ Reinforcement Learning; Natural Language Understanding, Generation, and Machine Translation; Innovation-driven Entrepreneurship.
-    - _Full Year:_ Machine Learning Practical.
+    - _Semester 1:_ Machine Learning and Pattern Recognition; Algorithmic Foundations of Data Science; Social and Technological Networks; Informatics Research Review; Machine Learning Practical.
+    - _Semester 2:_ Reinforcement Learning; Natural Language Understanding, Generation, and Machine Translation; Innovation-driven Entrepreneurship; Informatics Project Proposal; Machine Learning Practical (cont.).
+    - _Summer:_ MSc Thesis.
 - **Delft University of Technology**, Delft, Netherlands _(2015 - 2018)_
   - BSc Computer Science and Engineering.
   - Graduated cum laude with an 8.62/10 GPA and a 9/10 grade for my [BSc thesis](https://repository.tudelft.nl/islandora/object/uuid%3Ae9bdfac5-0c2f-4c85-b9ec-403c88cac696?collection=education).
