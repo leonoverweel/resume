@@ -9,22 +9,25 @@ _The University of Edinburgh_
 ## 👨‍🎓 Education
 
 - **University of Edinburgh**, Edinburgh, Scotland _(2018 - Today)_
-  - Starting my MSc in Artificial Intelligence this fall.
+  - Coursework (to be completed):
+    - _Semester 1:_ Machine Learning and Pattern Recognition; Algorithmic Foundations of Data Science; Social and Technological Networks.
+    - _Semester 2:_ Reinforcement Learning; Natural Language Understanding, Generation, and Machine Translation; Innovation-driven Entrepreneurship.
+    - _Full Year:_ Machine Learning Practical.
 - **Delft University of Technology**, Delft, Netherlands _(2015 - 2018)_
   - BSc Computer Science and Engineering.
   - Graduated cum laude with an 8.62/10 GPA and a 9/10 grade for my [BSc thesis](https://repository.tudelft.nl/islandora/object/uuid%3Ae9bdfac5-0c2f-4c85-b9ec-403c88cac696?collection=education).
   - Completed the Honours Programme Delft, earning 23 extra ECTS through research and interfacultary classes.
   - Coursework (TA = Teaching Assistant; CM = created free Course Materials):
-    - _Intelligent Systems_: Logic-Based Artificial Intelligence, Multi-Agent Systems Project, Signal + Image Processing, Multimedia Analysis (CM).
-    - _Computer Systems_: Computer Organization (TA, CM), Computer Networks (TA).
-    - _Information Systems_: Web & Database Technology (CM), Information & Data Modeling.
-    - _Software Development_: Object Oriented Programming + Project, Algorithms & Data Structures (CM), Software Quality & Testing, Software Engineering Methods, Concept of Programming Languages, Contextproject.
-    - _Fundamentals_: Reasoning and Logic (CM), Algorithm Design, Automata, Languages & Computability, Complexity Theory.
-    - _Math & Modeling_: Computer Graphics, Calculus (CM), Linear Algebra (TA, CM), Probability Theory & Statistics.
+    - _Intelligent Systems_: Logic-Based Artificial Intelligence; Multi-Agent Systems Project; Signal + Image Processing; Multimedia Analysis (CM).
+    - _Computer Systems_: Computer Organization (TA, CM); Computer Networks (TA).
+    - _Information Systems_: Web & Database Technology (CM); Information & Data Modeling.
+    - _Software Development_: Object Oriented Programming + Project; Algorithms & Data Structures (CM); Software Quality & Testing; Software Engineering Methods; Concept of Programming Languages; Contextproject.
+    - _Fundamentals_: Reasoning and Logic (CM); Algorithm Design; Automata, Languages & Computability; Complexity Theory.
+    - _Math & Modeling_: Computer Graphics; Calculus (CM); Linear Algebra (TA, CM); Probability Theory & Statistics.
 - **National University of Singapore**, Singapore _(2017)_
   - Selected to study abroad at the National University of Singapore to do my minor in Machine Learning and Artificial Intelligence.
   - Coursework:
-    - _Computer Science_: Machine Learning, Natural Language Processing, Computer Security, Optimization Algoritms.
+    - _Computer Science_: Machine Learning; Natural Language Processing; Computer Security; Optimization Algoritms.
     - _Philosophy_: Language and Thought.
 - **Rye High School**, Rye, NY, USA _(2011 - 2015)_
   - 10 Advanced Placement courses.
