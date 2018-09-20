@@ -10,7 +10,7 @@ _The University of Edinburgh_
 
 - **University of Edinburgh**, Edinburgh, Scotland _(2018 - Today)_
   - Coursework (to be completed):
-    - _Semester 1:_ Machine Learning and Pattern Recognition; Algorithmic Foundations of Data Science; Social and Technological Networks; Informatics Research Review; Machine Learning Practical.
+    - _Semester 1:_ Machine Learning and Pattern Recognition; Extreme Computing; Social and Technological Networks; Informatics Research Review; Machine Learning Practical.
     - _Semester 2:_ Reinforcement Learning; Natural Language Understanding, Generation, and Machine Translation; Innovation-driven Entrepreneurship; Informatics Project Proposal; Machine Learning Practical (cont.).
     - _Summer:_ MSc Thesis.
 - **Delft University of Technology**, Delft, Netherlands _(2015 - 2018)_
