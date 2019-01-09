@@ -2,20 +2,20 @@
 
 _The University of Edinburgh_
 
-[leonoverweel.com](http://leonoverweel.com) / [l.overweel@gmail.com](mailto:l.overweel@gmail.com) / [@LayOn_OverWhale](https://twitter.com/layon_OverWhale)
+[leonoverweel.com](http://leonoverweel.com) / [l.overweel@gmail.com](mailto:l.overweel@gmail.com) / [@layon_overwhale](https://twitter.com/layon_overwhale)
 
 **For a single-page PDF version of my resume, [click here](https://github.com/leonoverweel/resume/blob/master/single-page/leon-overweel-resume.pdf).** If you're looking for my complete resume, you're in the right place!
 
 ## 👨‍🎓 Education
 
 - **University of Edinburgh**, Edinburgh, Scotland _(2018 - Today)_
-  - Coursework (to be completed):
+  - Coursework (Semester 1 completed):
     - _Semester 1:_ Machine Learning and Pattern Recognition; Extreme Computing; Social and Technological Networks; Informatics Research Review; Machine Learning Practical.
     - _Semester 2:_ Reinforcement Learning; Natural Language Understanding, Generation, and Machine Translation; Innovation-driven Entrepreneurship; Informatics Project Proposal; Machine Learning Practical (cont.).
-    - _Summer:_ MSc Thesis.
+    - _Summer:_ MSc Thesis: will research transfer learning for fraud prediction at [Adyen](https://adyen.com).
 - **Delft University of Technology**, Delft, Netherlands _(2015 - 2018)_
   - BSc Computer Science and Engineering.
-  - Graduated cum laude with an 8.62/10 GPA and a 9/10 grade for my [BSc thesis](https://repository.tudelft.nl/islandora/object/uuid%3Ae9bdfac5-0c2f-4c85-b9ec-403c88cac696?collection=education).
+  - Graduated cum laude with honours, with an 8.6/10 GPA and a 9/10 grade for my [BSc thesis](https://repository.tudelft.nl/islandora/object/uuid%3Ae9bdfac5-0c2f-4c85-b9ec-403c88cac696?collection=education).
   - Completed the Honours Programme Delft, earning 23 extra ECTS through research and interfacultary classes.
   - Coursework (TA = Teaching Assistant; CM = created free Course Materials):
     - _Intelligent Systems_: Logic-Based Artificial Intelligence; Multi-Agent Systems Project; Signal + Image Processing; Multimedia Analysis (CM).
@@ -41,15 +41,15 @@ _The University of Edinburgh_
 - **Software Engineering Intern**, [ING Bank](https://www.ing.nl/), _(April 2018 - July 2018)_
   - Worked in a four-student team to create Mapp, an internal tool for customer journey mapping at ING, as our BSc graduation project.
   - Focused on finding product-market fit by shipping the Java + Polymer web app in two-week sprints and getting user feedback constantly.
-  - Users love Mapp and we are working to deploy the app throughout ING.
+  - Users love Mapp and ING is currently trialing its company-wide deployment.
   - For more info, read about our development process in our BSc thesis report ([PDF](https://github.com/leonoverweel/resume/blob/master/attachments/articles/kluiters2018mapp.pdf)) or watch a short walk-through of the software ([YouTube](https://www.youtube.com/watch?v=autlMmS2snY)).
 - **OpenDC Product Lead; Student Researcher**, [@Large Research](https://atlarge-research.com/) _(June 2016 - July 2018):_
-  - Worked in the @Large Research group as product lead and software engineer for [OpenDC](http://opendc.org/): a free, open-source datacenter simulator for education.
+  - Worked in the @Large Research group as product lead and software engineer for [OpenDC](https://opendc.org/): a free, open-source datacenter simulator for education.
   - One of three students who built the initial OpenDC prototype over the summer of 2016.
   - Management responsibilities: Sprint planning, conference presentations, and roadmap management.
   - Engineering responsibilities: Database, API design, and web server components.
   - My post-product lead role centered around the Cloud Availability Study, to automatically collect uptime and crash data about major cloud services providers for use in the OpenDC simulator.
-- **Co-Founder, Chief Hacker Experience**, [HackDelft](https://hackdelft.com/) _(Aug. 2016 - June 2017):_
+- **Co-Founder, Chief Hacker Experience**, [HackDelft](https://2017.hackdelft.nl/) _(Aug. 2016 - June 2017):_
   - Organized HackDelft, the first hackathon organized by the study association 'Christiaan Huygens'.
   - Responsibilities: HackDelft's jury, keynote speaker, [@HackDelft](https://twitter.com/hackdelft) twitter account, working with Major League Hacking, and general "hacker experience."
 - **Teaching Assistant**, [TU Delft](https://www.tudelft.nl/) / [VU Amsterdam](https://www.vu.nl/en) _(Aug. 2016 - April 2018):_
@@ -67,13 +67,15 @@ _The University of Edinburgh_
 
 In my free time, I love to work on side projects. They range from websites (🌐) and open source code (🎁), to film (🎥) and robotics (🤖).
 
+- [Dynamically Typed](https://www.getrevue.co/profile/dynamically-typed) _(2019):_ Bi-weekly newsletter on AI products and ML technology.
+- [Weekly.Cool](https://weekly.cool) _(2019):_ Subscription service for weekly email digests for reddit communities (subreddits); successfully launched and acquired paying users.
 - [Dutch Hackathon List](http://leonoverweel.com/dutch-hackathon-list) 🌐🎁 _(2017):_ Collaboratively building the most comprehensive list of upcoming hackathons in the Netherlands at [hackathonlist.nl](http://hackathonlist.nl/).
 - [World Port Hackathon '16](http://leonoverweel.com/world-port-hackathon-2016) 🌐 _(2016):_ Blockchain-based app to help customs agencies detect smuggling in freight containers. We won the first-place prize, and worked with the Dutch customs agency and TU Delft Cyber Security group to build an extended hyperledger-based prototype.
 - [Intersect.Ninja](http://leonoverweel.com/intersect.ninja) 🌐🎁 _(2015):_ Find intersections in the artists and songs different people like, based on their public Spotify playlists.
 - [Arc Spin](http://leonoverweel.com/arc-spin) 🌐 _(2015):_ Mobile and desktop browser game in which you avoid spinning obstacles to score points.
 - [Link Syncer](http://leonoverweel.com/link-syncer) 🌐 _(2015):_ Quick shortlinks that will only redirect once everyone has clicked. Great to sync watching videos while chatting!
 - [Rye High Jinx](http://leonoverweel.com/rye-high-jinx) 🎥 _(2015):_ What happens when a student and a teacher switch bodies? The 2015 Rye High School senior movie!
-- [Reddit Weekly](http://leonoverweel.com/reddit-weekly) 🌐 _(2015):_ Make sure you don't miss out on top posts from your favorite subreddits using customizable, weekly emails.
+- [Reddit Weekly](http://leonoverweel.com/reddit-weekly) 🌐 _(2015):_ Make sure you don't miss out on top posts from your favorite subreddits using customizable, weekly emails. (Now retired and replaced by Weekly.Cool.)
 - [Stop Freebooting Now](http://leonoverweel.com/stop-freebooting-now) 🌐🎥 _(2015):_ Documenting websites and social media pages that steal online creators' original content.
 - [AP World: Greatest Hits](http://leonoverweel.com/ap-world-greatest-hits) 🎥 _(2013):_ Final project my friends and I made for AP World History. The video has over 30,000 views on YouTube.
 - [FCCYSF](http://leonoverweel.com/fccysf) 🎥 _(2012):_ High quality stock footage for filmmakers, completely free. The channel has 250 videos and over 750 subscribers on YouTube.
@@ -121,8 +123,8 @@ Below is a list of my open access reports (not peer-reviewed):
 
 ### Platforms
 
-- I've done many projects using **Flask**, **Polymer**, **Google App Engine**, **OpenAPI**, **Bootstrap**, and **Mindstorms NXT**.
-- I'm comfortable using **Linux**, **nginx**, **Docker** and **Docker Compose**, **Java Spark**, and **RobotOS**.
+- I've done many projects using **Numpy**, **Flask**, **serverless**, **Polymer**, **Google App Engine**, **OpenAPI**, **Bootstrap**, and **Mindstorms NXT**.
+- I'm comfortable using **Linux**, **scikit-learn**, **Compute Engine**, **nginx**, **Docker** and **Docker Compose**, **Java Spark**, and **RobotOS**.
 
 ### APIs
 
